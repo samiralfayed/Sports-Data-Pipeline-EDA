@@ -1,5 +1,3 @@
-# Sports-Data-Pipeline-EDA
-
 #  Sports Data Pipeline + EDA + Prediction (Python Internship Task)
 
 ##  Objective
