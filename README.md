@@ -1,4 +1,4 @@
-#  Sports Data Pipeline + EDA + Prediction (Python Internship Task)
+#  Sports Data Pipeline + EDA + Prediction
 
 ##  Objective
 Build an end-to-end pipeline to clean, analyze, and predict outcomes based on real-world football player appearance data.
