@@ -37,7 +37,7 @@ Build an end-to-end pipeline to clean, analyze, and predict outcomes based on re
 - Target: `scored` (1 if goals > 0, else 0)
 
 ###  Performance:
-- **Accuracy**: ~XX% (shown in notebook)
+- **Accuracy**: 91.32%
 - **Confusion Matrix**:  (visualized)
 - **ROC Curve + AUC**:  included
 
@@ -45,6 +45,9 @@ Build an end-to-end pipeline to clean, analyze, and predict outcomes based on re
 
 
 ##  Video Demo
+https://drive.google.com/file/d/142QktaEPLAXauDPhVLizugN1VEBrSNkG/view?usp=sharing
+
+
 
 
 ---
