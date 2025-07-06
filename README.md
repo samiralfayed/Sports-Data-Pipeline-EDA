@@ -43,16 +43,6 @@ Build an end-to-end pipeline to clean, analyze, and predict outcomes based on re
 
 ---
 
-##  Folder Structure
-
-sports-data-pipeline/
-├── data/
-│ └── cleaned_appearances_with_scored.csv
-├── eda/
-│ └── sports_data_pipeline_updated.ipynb
-├── README.md
-└── video_link
----
 
 ##  Video Demo
 
